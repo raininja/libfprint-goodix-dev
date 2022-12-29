@@ -3,7 +3,7 @@
 name: "libfprint"
 arch: "amd64"
 platform: "linux"
-version: "1.94.5"
+version: "LIBVERSION"
 prerelease: goodixtls-COMMITID
 epoch: 99999999
 section: "default"
